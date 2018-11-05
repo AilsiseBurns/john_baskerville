@@ -6,5 +6,5 @@
  
 ### Monday 05th November 
  
- [John baskerville 2](https://ailsiseburns.github.io/john_baskerville/)
+ [John baskerville 2](https://ailsiseburns.github.io/john_baskerville/baskerville2)
  Added list items 
