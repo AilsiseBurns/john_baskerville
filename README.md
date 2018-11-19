@@ -12,4 +12,9 @@
  ### Monday 12th November
  
   [John baskerville 3]( https://ailsiseburns.github.io/john_baskerville/baskerville3.html)
- Added tables and images. 
+ Added tables and images.
+ 
+ ### Monday 19th November
+ 
+  [John baskerville 4]( https://ailsiseburns.github.io/john_baskerville/baskerville4.html)
+ Added css stylesheet.
