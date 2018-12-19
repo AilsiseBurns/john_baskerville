@@ -25,6 +25,6 @@
  Added Google Fonts.
 
 ### Monday 3rd December
-[John Baskerville 6](https://ailsiseburns.github.io/john_baskerville/baskerville6.html))
+[John Baskerville 6](https://ailsiseburns.github.io/john_baskerville/baskerville6.html)
 
 Added Table and media SVGs.
