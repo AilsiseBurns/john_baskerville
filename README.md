@@ -6,15 +6,25 @@
  
 ### Monday 05th November 
  
- [John baskerville 2](https://ailsiseburns.github.io/john_baskerville/baskerville2)
+ [John Baskerville 2](https://ailsiseburns.github.io/john_baskerville/baskerville2)
  Added list items 
  
  ### Monday 12th November
  
-  [John baskerville 3]( https://ailsiseburns.github.io/john_baskerville/baskerville3.html)
+  [John Baskerville 3]( https://ailsiseburns.github.io/john_baskerville/baskerville3.html)
  Added tables and images.
  
  ### Monday 19th November
  
-  [John baskerville 4]( https://ailsiseburns.github.io/john_baskerville/baskerville4.html)
+  [John Baskerville 4]( https://ailsiseburns.github.io/john_baskerville/baskerville4.html)
  Added css stylesheet.
+ 
+ ### Monday 26th November 
+ 
+ [John Baskerville 5]( https://ailsiseburns.github.io/john_baskerville/baskerville5.html)
+ Added Google Fonts.
+
+### Monday 3rd December
+[John Baskerville 6]
+
+Added Table and Formatting to images etc.1
