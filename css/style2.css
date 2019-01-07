@@ -24,7 +24,7 @@ body {
     margin-top: 3em;
 }
 
-.leader{
+.leader {
     text-transform: uppercase;
     color:darkslateblue;
     font-variant-numeric: oldstyle-nums;
@@ -34,6 +34,7 @@ body {
 .sub{
     color: darkgrey
 }
+
 
 /*-------TYPOGRAPHY--------*/
 h1,h2,h3 {
